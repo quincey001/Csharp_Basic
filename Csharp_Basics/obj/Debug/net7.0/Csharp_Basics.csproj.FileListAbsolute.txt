@@ -1,0 +1,15 @@
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/bin/Debug/net7.0/Csharp_Basics
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/bin/Debug/net7.0/Csharp_Basics.deps.json
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/bin/Debug/net7.0/Csharp_Basics.runtimeconfig.json
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/bin/Debug/net7.0/Csharp_Basics.dll
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/bin/Debug/net7.0/Csharp_Basics.pdb
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.csproj.AssemblyReference.cache
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.AssemblyInfoInputs.cache
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.AssemblyInfo.cs
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.csproj.CoreCompileInputs.cache
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.dll
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/refint/Csharp_Basics.dll
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.pdb
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/Csharp_Basics.genruntimeconfig.cache
+/Users/user/dotnet_projects/Csharp_Basics/Csharp_Basics/obj/Debug/net7.0/ref/Csharp_Basics.dll
